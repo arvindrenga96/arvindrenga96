@@ -12,7 +12,7 @@
 
 <div align="center">
 <p>
-   <a href="https://www.umn.edu/" target="_blank" rel="noreferrer"> <img src="https://cemse.kaust.edu.sa/sites/default/files/styles/max_fullhd_scale/public/2021-05/Snipaste_2021-05-30_20-54-49.png?itok=ZUNeyyEt" alt="UMN" width="80" height="80"/> </a>
+   <a href="https://www.umn.edu/" target="_blank" rel="noreferrer"> <img src="https://cemse.kaust.edu.sa/sites/default/files/styles/max_fullhd_scale/public/2021-05/Snipaste_2021-05-30_20-54-49.png?itok=ZUNeyyEt" alt="UMN" width="120" height="80"/> </a>
 </p>
 </div>
 
